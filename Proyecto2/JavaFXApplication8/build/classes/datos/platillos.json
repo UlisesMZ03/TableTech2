@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Cantones",
+    "calorias": 600,
+    "tiempoPreparacion": 25,
+    "precio": 4000.0
+  },
+  {
+    "nombre": "Chifrijo",
+    "calorias": 600,
+    "tiempoPreparacion": 30,
+    "precio": 3500.0
+  },
+  {
+    "nombre": "Gallo Pinto",
+    "calorias": 230,
+    "tiempoPreparacion": 10,
+    "precio": 200.0
+  },
+  {
+    "nombre": "Huevo",
+    "calorias": 100,
+    "tiempoPreparacion": 5,
+    "precio": 100.0
+  },
+  {
+    "nombre": "Olla de carne",
+    "calorias": 500,
+    "tiempoPreparacion": 60,
+    "precio": 4000.0
+  },
+  {
+    "nombre": "Pollo",
+    "calorias": 200,
+    "tiempoPreparacion": 20,
+    "precio": 1000.0
+  },
+  {
+    "nombre": "Pure",
+    "calorias": 500,
+    "tiempoPreparacion": 10,
+    "precio": 800.0
+  },
+  {
+    "nombre": "Sopa Negra",
+    "calorias": 400,
+    "tiempoPreparacion": 40,
+    "precio": 3000.0
+  }
+]

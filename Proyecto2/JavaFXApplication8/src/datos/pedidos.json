@@ -1,0 +1,147 @@
+{
+  "head": {
+    "item": {
+      "nombrePedido": "admin",
+      "tiempoTotal": 10,
+      "tiempoRestante": 8,
+      "platillos": [
+        {
+          "nombre": "Gallo Pinto",
+          "calorias": 230,
+          "tiempoPreparacion": 10,
+          "precio": 200.0
+        }
+      ],
+      "numeroOrden": "2023/05/16/23:44:23"
+    },
+    "next": {
+      "item": {
+        "nombrePedido": "admin",
+        "tiempoTotal": 10,
+        "tiempoRestante": 10,
+        "platillos": [
+          {
+            "nombre": "Gallo Pinto",
+            "calorias": 230,
+            "tiempoPreparacion": 10,
+            "precio": 200.0
+          }
+        ],
+        "numeroOrden": "2023/05/16/23:44:25"
+      },
+      "next": {
+        "item": {
+          "nombrePedido": "admin",
+          "tiempoTotal": 10,
+          "tiempoRestante": 10,
+          "platillos": [
+            {
+              "nombre": "Gallo Pinto",
+              "calorias": 230,
+              "tiempoPreparacion": 10,
+              "precio": 200.0
+            }
+          ],
+          "numeroOrden": "2023/05/16/23:44:27"
+        },
+        "next": {
+          "item": {
+            "nombrePedido": "admin",
+            "tiempoTotal": 5,
+            "tiempoRestante": 5,
+            "platillos": [
+              {
+                "nombre": "Huevo",
+                "calorias": 100,
+                "tiempoPreparacion": 5,
+                "precio": 100.0
+              }
+            ],
+            "numeroOrden": "2023/05/16/23:44:29"
+          },
+          "next": {
+            "item": {
+              "nombrePedido": "admin",
+              "tiempoTotal": 5,
+              "tiempoRestante": 5,
+              "platillos": [
+                {
+                  "nombre": "Huevo",
+                  "calorias": 100,
+                  "tiempoPreparacion": 5,
+                  "precio": 100.0
+                }
+              ],
+              "numeroOrden": "2023/05/16/23:44:31"
+            },
+            "next": {
+              "item": {
+                "nombrePedido": "admin",
+                "tiempoTotal": 25,
+                "tiempoRestante": 25,
+                "platillos": [
+                  {
+                    "nombre": "Cantones",
+                    "calorias": 600,
+                    "tiempoPreparacion": 25,
+                    "precio": 4000.0
+                  }
+                ],
+                "numeroOrden": "2023/05/16/23:44:33"
+              },
+              "next": {
+                "item": {
+                  "nombrePedido": "admin",
+                  "tiempoTotal": 10,
+                  "tiempoRestante": 10,
+                  "platillos": [
+                    {
+                      "nombre": "Gallo Pinto",
+                      "calorias": 230,
+                      "tiempoPreparacion": 10,
+                      "precio": 200.0
+                    }
+                  ],
+                  "numeroOrden": "2023/05/16/23:44:36"
+                },
+                "next": {
+                  "item": {
+                    "nombrePedido": "admin",
+                    "tiempoTotal": 5,
+                    "tiempoRestante": 5,
+                    "platillos": [
+                      {
+                        "nombre": "Huevo",
+                        "calorias": 100,
+                        "tiempoPreparacion": 5,
+                        "precio": 100.0
+                      }
+                    ],
+                    "numeroOrden": "2023/05/16/23:44:38"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tail": {
+    "item": {
+      "nombrePedido": "admin",
+      "tiempoTotal": 5,
+      "tiempoRestante": 5,
+      "platillos": [
+        {
+          "nombre": "Huevo",
+          "calorias": 100,
+          "tiempoPreparacion": 5,
+          "precio": 100.0
+        }
+      ],
+      "numeroOrden": "2023/05/16/23:44:38"
+    }
+  },
+  "size": 8
+}
